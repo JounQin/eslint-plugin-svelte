@@ -1,5 +1,16 @@
 # eslint-plugin-svelte
 
+[![npm](https://img.shields.io/npm/v/eslint-plugin-svelte.svg)](https://www.npmjs.com/package/eslint-plugin-svelte)
+[![GitHub Release](https://img.shields.io/github/release/JounQin/eslint-plugin-svelte)](https://github.com/JounQin/eslint-plugin-svelte/releases)
+
+[![David Peer](https://img.shields.io/david/peer/JounQin/eslint-plugin-svelte.svg)](https://david-dm.org/JounQin/eslint-plugin-svelte?type=peer)
+[![David](https://img.shields.io/david/JounQin/eslint-plugin-svelte.svg)](https://david-dm.org/JounQin/eslint-plugin-svelte)
+[![David Dev](https://img.shields.io/david/dev/JounQin/eslint-plugin-svelte.svg)](https://david-dm.org/JounQin/eslint-plugin-svelte?type=dev)
+
+[![Conventional Commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Code Style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 - [What](#what)
 - [Why](#why)
 - [How](#how)
