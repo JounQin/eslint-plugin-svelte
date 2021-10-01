@@ -12,7 +12,7 @@
     "lint": "eslint --ext js,md,svelte ."
   },
   "dependencies": {
-    "eslint-plugin-svelte3": "^3.2.0"
+    "eslint-plugin-svelte3": "^3.2.1"
   },
   "devDependencies": {
     "@1stg/common-config": "^1.5.2",
